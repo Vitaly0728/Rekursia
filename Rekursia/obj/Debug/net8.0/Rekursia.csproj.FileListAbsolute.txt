@@ -1,0 +1,14 @@
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\bin\Debug\net8.0\Rekursia.exe
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\bin\Debug\net8.0\Rekursia.deps.json
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\bin\Debug\net8.0\Rekursia.runtimeconfig.json
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\bin\Debug\net8.0\Rekursia.dll
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\bin\Debug\net8.0\Rekursia.pdb
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\obj\Debug\net8.0\Rekursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\obj\Debug\net8.0\Rekursia.AssemblyInfoInputs.cache
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\obj\Debug\net8.0\Rekursia.AssemblyInfo.cs
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\obj\Debug\net8.0\Rekursia.csproj.CoreCompileInputs.cache
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\obj\Debug\net8.0\Rekursia.dll
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\obj\Debug\net8.0\refint\Rekursia.dll
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\obj\Debug\net8.0\Rekursia.pdb
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\obj\Debug\net8.0\Rekursia.genruntimeconfig.cache
+C:\Users\kuleshov\Desktop\Тренировки\Rekursia\Rekursia\obj\Debug\net8.0\ref\Rekursia.dll
